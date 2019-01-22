@@ -1,5 +1,10 @@
 var docx = require('docx');
 
+var err = function(msg) {
+	console.log('Error!: ' + msg);
+	return false;
+}
+
 var findNodeByName = function(nodeIn, nodeNameIn) {
 
 	// console.log('findNodeByName(): Finding next node named: ' + nodeNameIn);
