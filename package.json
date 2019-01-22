@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/johnhungerford/dom-crawler/issues"
   },
-  "homepage": "https://github.com/johnhungerford/dom-crawler#readme"
+  "homepage": "https://github.com/johnhungerford/dom-crawler#readme",
+  "dependencies": {
+    "docx": "github:johnhungerford/docx"
+  }
 }
