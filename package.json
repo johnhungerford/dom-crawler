@@ -1,0 +1,23 @@
+{
+  "name": "dom-crawler",
+  "version": "1.0.0",
+  "description": "Crawls DOM beginning from a given node, executing a given function",
+  "main": "dom-crawler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnhungerford/dom-crawler.git"
+  },
+  "keywords": [
+    "DOM",
+    "xml"
+  ],
+  "author": "John Hungerford",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnhungerford/dom-crawler/issues"
+  },
+  "homepage": "https://github.com/johnhungerford/dom-crawler#readme"
+}
